@@ -1,0 +1,5 @@
+Read array of numbers
+Set sum = 0
+FOR (num in numbers)
+    Set sum = sum + square of number
+Write sum
